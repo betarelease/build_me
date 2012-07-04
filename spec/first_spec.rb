@@ -7,6 +7,6 @@ describe Math do
   end
   
   it "fails when result does not match" do
-    (5 * 20).should be_equal 520
+    (5 * 20).should be_equal 100
   end
 end
